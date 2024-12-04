@@ -24,3 +24,21 @@ body{
     align-items: center;
     background-color: #1E2337;
 }
+
+
+.questions{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem;
+    border-bottom: 1px solid #777;
+}
+
+
+.reponses{
+    display: none;
+    color: #777;
+    background-color: #eee;
+    padding: 3rem;
+}
+
